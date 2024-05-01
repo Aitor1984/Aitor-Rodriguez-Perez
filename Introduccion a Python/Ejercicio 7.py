@@ -1,3 +1,7 @@
+
+
+#Crea un programa que realice operaciones aritméticas simples (suma, resta,multiplicación, división) según la elección del usuario.
+
 #Escoge dos números
 N1 = 3
 N2 = 4

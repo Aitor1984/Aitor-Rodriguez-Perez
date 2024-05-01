@@ -1,3 +1,7 @@
+
+
+#Escribe un programa que determine el día de la semana correspondiente a un número ingresado por el usuario (1 para lunes, 2 para martes, etc.).
+
 #Introduce un número entre 1 y 7
 Dia = [1,2,3,4, 56,5,6, -9,7] 
 

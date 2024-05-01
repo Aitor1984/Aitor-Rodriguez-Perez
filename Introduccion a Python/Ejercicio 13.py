@@ -1,3 +1,8 @@
+
+
+#Escribe un programa que determine si un número ingresado por el usuario es primo o no.
+
+
 #Introduce un número
 Numero=[43, 54, 71, 88, 67]
 #Vamos a dividir estos numeros entre los primeros números primos hasta que el cociente sea entero (no primo) o menor que el divisor (primo)

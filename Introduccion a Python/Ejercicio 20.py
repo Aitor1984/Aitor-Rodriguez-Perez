@@ -1,3 +1,6 @@
+
+
+#Crea un programa que sume todos los números en una lista ingresada por el usuario.
 #Introduce una lista de números:
 Lista= [4,54,765,43,67,87]
 

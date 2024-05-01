@@ -1,3 +1,7 @@
+
+
+#Crea un programa que cuente y muestre la cantidad de números pares e impares en una lista ingresada por el usuario.
+
 #Introduce una lista de numeros
 Lista = [2,53,15,12,36,28,45,69]
 

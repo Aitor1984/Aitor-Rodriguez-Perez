@@ -1,3 +1,7 @@
+
+
+#Escribe un programa que calcule la suma de todos los números pares del 1 al 100.
+
 Suma_pares=0
 n = 0
 while n <=100:

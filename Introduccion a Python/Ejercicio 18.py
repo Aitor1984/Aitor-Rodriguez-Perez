@@ -1,3 +1,6 @@
+
+
+#Crea un programa que cuente la cantidad de palabras en una oración ingresada por el usuario.
 #Introduce una oración
 Oracion1="El patio de mi casa es particular"
 Oracion2="Hola"

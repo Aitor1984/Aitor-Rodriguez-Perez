@@ -1,3 +1,6 @@
+
+
+#Crea un programa que cuente el número de vocales en una palabra ingresada por el usuario
 Palabra = "Fulanito"
 Vocales = "AEIOUaeiou"
 def Contador_vocales(palabra):

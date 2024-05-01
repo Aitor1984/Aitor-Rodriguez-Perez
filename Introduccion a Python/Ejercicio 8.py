@@ -1,3 +1,6 @@
+
+
+#Escribe un programa que calcule el Índice de Masa Corporal (IMC) de una persona
 #Introduce el peso en kg
 Peso = 80
 #Introduce la altura en m

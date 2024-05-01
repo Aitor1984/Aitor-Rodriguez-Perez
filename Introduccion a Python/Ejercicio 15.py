@@ -1,3 +1,8 @@
+
+
+#Escribe un programa que convierta un número de minutos en horas y minutos. Por ejemplo, 145 minutos serían 2 horas y 25 minutos.
+
+
 #Introduce el número de minutos
 Minutos = [158, 445, 9856, 33578]
 

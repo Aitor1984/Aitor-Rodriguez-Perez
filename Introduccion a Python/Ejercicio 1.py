@@ -1,3 +1,8 @@
+
+
+#Escribe un programa que convierta una temperatura de grados Celsius a gradosFahrenheit.
+
+
 Termometro = [12, 12, 45, 54, 32, -12]
 def conversor(temperatura):
   for datos in temperatura:
